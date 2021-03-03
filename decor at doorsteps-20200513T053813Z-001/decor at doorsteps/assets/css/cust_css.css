@@ -1,0 +1,15 @@
+.login_reg{
+	font-size: 20px !important;
+	margin-right: 20px !important; 
+}
+.bootom_border{
+	border-bottom: 3px solid #eee;
+}
+.btn_space{
+
+	margin-right: 22px;
+
+}	
+div#labtable_length,div#cabintable_length,div#producttable_length,div#equiptable_length,div#cattable_length,div#specnametable_length,div#specvaluetable_length {
+	margin: 18px;
+}d
